@@ -1,0 +1,30 @@
+INFO  07:34:32 Application started. Press Ctrl+C to shut down.
+INFO  07:34:32 Hosting environment: Development
+INFO  07:34:32 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumAuthenticationService
+INFO  07:34:57 Authentication initiated
+INFO  07:34:57 Login credential matched
+INFO  07:34:57 Token Generation initiated
+INFO  07:51:37 Application started. Press Ctrl+C to shut down.
+INFO  07:51:37 Hosting environment: Development
+INFO  07:51:37 Content root path: C:\Users\deepa\Desktop\Truyum\TruyumAuthenticationService
+INFO  07:52:06 Authentication initiated
+INFO  07:52:06 Login credential matched
+INFO  07:52:06 Token Generation initiated
+INFO  08:02:38 Authentication initiated
+INFO  08:02:38 Login credential matched
+INFO  08:02:38 Token Generation initiated
+INFO  08:52:36 Authentication initiated
+INFO  08:52:36 Login credential matched
+INFO  08:52:36 Token Generation initiated
+INFO  08:54:32 Authentication initiated
+INFO  08:54:32 Login credential matched
+INFO  08:54:32 Token Generation initiated
+INFO  08:56:27 Authentication initiated
+INFO  08:56:27 Login credential matched
+INFO  08:56:27 Token Generation initiated
+INFO  09:01:15 Authentication initiated
+INFO  09:01:15 Login credential matched
+INFO  09:01:15 Token Generation initiated
+INFO  09:10:49 Authentication initiated
+INFO  09:10:49 Login credential matched
+INFO  09:10:49 Token Generation initiated
